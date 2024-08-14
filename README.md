@@ -1,6 +1,6 @@
 # Predicting Airfare Using Machine Learning
 
-A non-interactive version of the project can be viewed here: https://htmlpreview.github.io/?https://github.com/dnrybacki/airfarePredictor/blob/82c479754c9e645ab600ce9d074589139e486ace/AirfarePrediction%20NonInteractive.html.
+A non-interactive version of the project can be viewed here: https://htmlpreview.github.io/?https://github.com/dnrybacki/airfarePredictor/blob/82c479754c9e645ab600ce9d074589139e486ace/AirfarePrediction%20NonInteractive.html. (It will take a few moments to load)
 
 To view the interactive graphs, download 'AirfarePrediction.ipynb'
 
