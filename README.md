@@ -39,3 +39,6 @@ This project is an attempt to predict the airfare of flights, first by exploring
 - Run through the code in the notebook (most importantly the data import, preprocessing, and the final tuned model)
 - Model should be in a pickle file in the same folder
 - Run the commond 'streamlit run app.py' in terminal with your working directory set as the folder of this project
+- UI will allow you to change the values of the features which will then show you the predicted price given those inputs and also the ideal booking time with a visual represntation for how the model predicts the price will change over time.
+
+<img width="1624" alt="Screenshot 2024-08-13 at 11 43 21 PM" src="https://github.com/user-attachments/assets/39ee74ae-87ee-45f0-8cef-4ebde4d12a38">
