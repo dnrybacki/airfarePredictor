@@ -1,5 +1,9 @@
 # Predicting Airfare Using Machine Learning
 
+A non-interactive version of the project can be viewed here: https://htmlpreview.github.io/?https://github.com/dnrybacki/airfarePredictor/blob/82c479754c9e645ab600ce9d074589139e486ace/AirfarePrediction%20NonInteractive.html.
+
+To view the interactive graphs, download 'AirfarePrediction.ipynb'
+
 ## Project Overview
 
 This project is an attempt to predict the airfare of flights, first by exploring the data set, preprocessing the data set for predictive models, finding an ideal model, and creating a user interface for the model's predictions in hopes to extract insights into the aviation industry and how airlines price their flights. 
